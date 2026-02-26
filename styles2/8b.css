@@ -1,0 +1,15 @@
+.customer-support {
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.yes-button {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.no-button {
+  display: inline-block;
+  vertical-align: middle;
+}
